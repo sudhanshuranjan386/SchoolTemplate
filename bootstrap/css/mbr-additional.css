@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#slider-0 H2 {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
+}
+#content4-3 H4 {
+  color: #d9534f;
+}
+#content4-3 P {
+  text-align: left;
+  font-size: 14px;
+}
